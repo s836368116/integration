@@ -9,6 +9,8 @@
 // PathPlanThread
 IMPLEMENT_DYNCREATE(PathPlanThread, CWinThread)
 
+
+
 PathPlanThread::PathPlanThread()
 {
 }
