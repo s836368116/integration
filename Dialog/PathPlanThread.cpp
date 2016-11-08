@@ -7,8 +7,6 @@
 #include "./PathPlan.src/Star.h"
 
 // PathPlanThread
-
-
 IMPLEMENT_DYNCREATE(PathPlanThread, CWinThread)
 
 PathPlanThread::PathPlanThread()
